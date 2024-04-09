@@ -57,7 +57,7 @@
       <HintPath>Telerik\RCWF\2022.1.222.40\Telerik.WinControls.UI.Design.dll</HintPath>
     </Reference>
     <Reference Include="TelerikCommon">
-      <HintPath>..\..\..\..\..\..\git\SmartWater\src\AquisTermis\CommonPackages\telerik\RCWF\2022.1.222.40\TelerikCommon.dll</HintPath>
+      <HintPath>Telerik\RCWF\2022.1.222.40\TelerikCommon.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
